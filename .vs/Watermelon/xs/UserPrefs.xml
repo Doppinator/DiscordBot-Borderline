@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{913AFC3E-BB9E-407A-866A-754E02FE70BA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Watermelon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/CommandHandler.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Modules/General.cs" Line="5" Column="1" />
+      <File FileName="Services/CommandHandler.cs" Line="13" Column="1" />
+      <File FileName="client_secrets.json" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Watermelon" expanded="True">
+            <Node name="Watermelon" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Common" expanded="True" />
+              <Node name="GoogleSheetAPI" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Modules" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="CommandHandler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

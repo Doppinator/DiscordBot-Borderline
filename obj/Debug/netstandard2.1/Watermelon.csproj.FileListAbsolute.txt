@@ -1,0 +1,13 @@
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/bin/Debug/netstandard2.1/appsettings.json
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/bin/Debug/netstandard2.1/client_secrets.json
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/bin/Debug/netstandard2.1/Watermelon.deps.json
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/bin/Debug/netstandard2.1/Watermelon.dll
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/bin/Debug/netstandard2.1/Watermelon.pdb
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.csproj.AssemblyReference.cache
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.AssemblyInfoInputs.cache
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.AssemblyInfo.cs
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.csproj.CoreCompileInputs.cache
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.sourcelink.json
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.dll
+/Volumes/Working/Dev/Discord-BorderlineBot/Watermelon/obj/Debug/netstandard2.1/Watermelon.pdb
