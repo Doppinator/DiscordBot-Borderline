@@ -33,3 +33,6 @@ Uses the Google Sheets API to authenticate the bot with Google, retrieve the det
             
 
 Embeds the retrieved release details in a new post and tags all group users with details for sharing.
+
+<img width="1105" alt="Screenshot 2024-07-03 at 10 43 55" src="https://github.com/Doppinator/DiscordBot-Borderline/assets/54332156/d5577351-d0f8-4aa6-bc92-5a20debb2915">
+
