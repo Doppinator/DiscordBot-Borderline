@@ -15,7 +15,7 @@ CTA
 Uses the Google Sheets API to authenticate the bot with Google, retrieve the details of the latest label release & assets from a Google Sheet, store release details as local variables e.g.
 
 
-string releaseID = getReleaseInfo._catNum;
+            string releaseID = getReleaseInfo._catNum;
 
             string artistName = getReleaseInfo._artistName;
             
